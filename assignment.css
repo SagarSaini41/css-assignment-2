@@ -1,7 +1,7 @@
 .aa{
     display: inline-block;
     height: 1800px;
-    width: auto;
+    width: 100%;
     background-image: url(./fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg);
     border: 5px solid green;
 }
